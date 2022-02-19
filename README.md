@@ -10,7 +10,7 @@ Some tech I'm interested in learning more about; Nix, Bazel, Haskell, Yocto.
 
 [personal website](https://isaactorz.dev)
 
-Contact me on [Linkedin](https://www.linkedin.com/in/isaactorz505 or Email: isaac@isaactorz.dev
+Contact me on [Linkedin](https://www.linkedin.com/in/isaactorz505) or via Email: isaac@isaactorz.dev.
 
 <!---
 isaactorz/isaactorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
