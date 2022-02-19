@@ -8,7 +8,7 @@ Previously I worked on physics based modeling and simulation software.
 
 Some tech I'm interested in learning more about; Nix, Bazel, Haskell, Yocto.
 
-[personal website](https://isaactorz.dev)
+[Personal Website](https://isaactorz.dev).
 
 Contact me on [Linkedin](https://www.linkedin.com/in/isaactorz505) or via Email: isaac@isaactorz.dev.
 
