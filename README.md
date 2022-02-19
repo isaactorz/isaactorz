@@ -2,7 +2,7 @@ Software Engineer based out of Albuquerque, NM :cactus:.
 
 I mostly code in C/C++, Rust, and Python, but I consider myself a polyglot.
 
-I'm currently obsessed with build systems, and working on developing the next generation of Build & CI systems at Swift Navigation.
+I'm currently obsessed with build systems, and working on developing the next generation of Build & CI systems at [Swift Navigation](https://www.swiftnav.com).
 
 Previously I worked on physics based modeling and simulation software.
 
