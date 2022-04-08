@@ -1,3 +1,7 @@
+Currently: Build Systems & Automation at [Swift Navigation](https://www.swiftnav.com)
+
+Previously: Physics Based Modelling & Simulation Software at Tau Technologies.
+
 [Personal Website](https://isaactorz.dev).
 
 Contact me on [Linkedin](https://www.linkedin.com/in/isaactorz505) or via Email: isaac@isaactorz.dev.
